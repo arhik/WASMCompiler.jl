@@ -1,0 +1,13 @@
+name = "WASMCompiler"
+uuid = "3bc988df-a880-40c6-8a6c-09600543880b"
+authors = ["arhik <arhik23@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
