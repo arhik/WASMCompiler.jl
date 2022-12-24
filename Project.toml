@@ -17,14 +17,13 @@ UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 
 [compat]
 ExprTools = "^0.1.8"
-GPUCompiler = "^0.16"
+GPUCompiler = "^0.16, 0.17"
 LLVM = "^4.14"
 MacroTools = "^0.5"
 StaticTools = "^0.8"
 TOML = "^1.0"
 TimerOutputs = "^0.5"
 julia = "^1.8"
-
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
